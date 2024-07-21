@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on becoming a real web developer
-- 🌱 I’m currently learning TypeScript, React, and Redux
-- 👯 I’m looking to collaborate on some projects, join me if you don't mind
-- 💬 Ask me about anything or follow me on Instagram
-- ⚡ Fun fact: I am an ENTJ-A 
+⚡ Using TypeScript, JavaScript, MobX, and Next.js
+👯 Open to collaboration and new ideas
+💬 Ask me anything or follow me on Instagram
+🌐 Passionate about foreign languages, popular science, walking, and history
+🚀 Inspired by the development of IT and its immense usefulness to humanity
+🔍 Fun fact: I'm an ENTJ-A
